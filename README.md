@@ -23,4 +23,3 @@ Steps:
 
 [Making Predictions](https://github.com/c3mcavus/DeepLearningImageRecognition/blob/main/10_making_predictions.py)
 
-![Frog Result](image-recognition-frog-result.png)
